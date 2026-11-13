@@ -1,0 +1,3 @@
+Q1: It is permanently gone because data saved inside a container without a volume gets wiped out the moment the container is deleted.
+Q2: The web service stays hidden from the outside world so only an internal gateway like a proxy can sfely go into it
+Q3: An image is the frozen blueprint for an app, while a container is the live, running copy 
